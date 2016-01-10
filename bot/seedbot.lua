@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    },
+    },@shayan_gold31323
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {data = 'data/moderation.json'},--Realms Id
