@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    {@shayan_gold31323}
+   
     disabled_channels = {},
     realm = {data = 'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -228,7 +228,7 @@ function create_config( )
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/SEEDTEAM/TeleSeed
-
+sudo_users={181742153},
 Admins
 @iwals [Founder]
 @imandaneshi [Developer]
